@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Mintlify Starter Kit](README.md)
+* [Mintlify Starter Kit Test](README.md)
 * [Features](features.mdx)
 * [Introduction](introduction.mdx)
 * [\_snippets](\_snippets/README.md)
